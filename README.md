@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @P0K3rF
-- 👀 I’m interested in creating Mobile Applications
-- 🌱 I’m currently learning Android Development in Java.
-- 💞️ I’m looking to collaborate on Android project.
-- 📫 How to reach me insta id:-k_khalil5
+👋 Hello, I'm Khan Khalil
 
-<!---
-P0K3rF/P0K3rF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 Java Developer | Servlet | JSP | Spring Framework
+📆 1 Year of Experience
+
+🌟 Passionate Self-Learner | Code Enthusiast
+💡 Creator of Android Music Apps, Multiplayer Maze Games, and More
+🌐 Web Development Enthusiast: E-commerce, Employee Management Systems, Course Management
+
+🧰 Skills:
+  - Java ☕
+  - Servlets & JSP
+  - Spring Framework
+  - Object-Oriented Programming 🎯
+  - JavaScript 🌐
+  - PHP 💻
+  - Python 🐍
+
+🚀 Always exploring and expanding my coding horizons.
+
+📫 Let's connect!
+   [https://www.linkedin.com/in/khalil5]
+
+Feel free to explore my repositories and collaborate on exciting projects!
